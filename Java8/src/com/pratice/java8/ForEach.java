@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ForEach {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -15,8 +16,9 @@ public class ForEach {
 		items.put("C", 30);
 		items.put("D", 40);
 		items.put("E", 50);
-		items.put("F", 60);
+		items.put("F", 601);
 
+		
 		/*for (Map.Entry<String, Integer> entry : items.entrySet()) {
 			System.out.println("Item : " + entry.getKey() + " Count : " + entry.getValue());
 		}*/
